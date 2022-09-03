@@ -1,0 +1,8 @@
+C:\Users\aluno\Pictures\Saved Pictures\LISTA1 EX2\LISTA1 EX2\obj\Debug\LISTA1 EX2.csproj.AssemblyReference.cache
+C:\Users\aluno\Pictures\Saved Pictures\LISTA1 EX2\LISTA1 EX2\obj\Debug\LISTA1 EX2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Pictures\Saved Pictures\LISTA1 EX2\LISTA1 EX2\obj\Debug\LISTA1 EX2.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Pictures\Saved Pictures\LISTA1 EX2\LISTA1 EX2\bin\Debug\LISTA1 EX2.exe.config
+C:\Users\aluno\Pictures\Saved Pictures\LISTA1 EX2\LISTA1 EX2\bin\Debug\LISTA1 EX2.exe
+C:\Users\aluno\Pictures\Saved Pictures\LISTA1 EX2\LISTA1 EX2\bin\Debug\LISTA1 EX2.pdb
+C:\Users\aluno\Pictures\Saved Pictures\LISTA1 EX2\LISTA1 EX2\obj\Debug\LISTA1 EX2.exe
+C:\Users\aluno\Pictures\Saved Pictures\LISTA1 EX2\LISTA1 EX2\obj\Debug\LISTA1 EX2.pdb
