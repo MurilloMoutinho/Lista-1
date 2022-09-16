@@ -1,0 +1,32 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Lista1Ex8
+{
+
+	internal class Program
+	{
+	
+		static void Main(string[] args)
+		{
+			Maior Valores1;
+			Valores1 = new Maior();
+
+			Console.WriteLine("\nExercício 8 da Lista 1\n");
+			
+			Console.Write("Insira o primeiro número: ");
+			Valores1.setV1(int.Parse(Console.ReadLine()));
+
+			Console.Write("Insira o segundo número: ");
+                        Valores1.setV2(int.Parse(Console.ReadLine()));
+
+			Valores1.calcular();
+			
+			Console.WriteLine("O maior valor é {0}",
+				Valores1.getMaior());	
+		}	
+	}
+}
